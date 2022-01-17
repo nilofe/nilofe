@@ -8,25 +8,31 @@ You can click the Preview link to take a look at your changes.
 
 
 ### :space_invader: &nbsp;About Me
-- 👋 Hi, I’m  nilo 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+  
+  - 👋 Hi, I’m  nilo 
+  
+  - 💞️ I’m looking to collaborate on ...
+  
+  - 📫 How to reach me ...
+
+
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.
+
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.
 
 
+
 <p align="center">
-  <a href="mailto:nyucragavilan@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/felipepyg/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--
+<!--  <img align="left" alt="nilofe | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+  <a href="https://www.linkedin.com/en/felipepyg/">
+  <img align="left" alt="LinkedIN de nilofe" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> -->
+<a href="https://www.linkedin.com/in/felipepyg"><img alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a> 
+ <a href="https://twitter.com/_flipe_"><img alt="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+ <a href="https://facebook.com/felipepni"><img alt="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+
   
-
-<a href="https://twitter.com/_flipe_">
-  <img align="left" alt="_flipe_ | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-
-
+<!--
   <a href="http://lattes.cnpq.br/5511556848445955"><img src="" />
   -->
   </a>
