@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://facebook.com/felipepni"><img alt="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
 
   
-<!--
+<!-- cv 
   <a href="http://lattes.cnpq.br/5511556848445955"><img src="" />
   -->
   </a>
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr/>
 
-<details>
+
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -59,28 +59,9 @@ You can click the Preview link to take a look at your changes.
 ![Nmap](https://img.shields.io/badge/NMAP-%23121011.svg?&style=flat&logo=nmap&logoColor=white)&nbsp;
 
 
-<!-- 
-Terraform, Python
-GitHub, GitLab, Docker, 
-VSCode,nmap
-HTML, CSS, Nginx,
-postgresql,  mysql, 
-linux
--->
-</details>
 
-<!-- 
- sass
- nodejs,  nginx,
-apache kafka, aws
-  mongodb, 
-Kubernates,  github actions,  arduino
- Go Jenkins
 
--->
-
-<details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+ <summary><h3><b>:brain: &nbsp;Other knowledge, always learning</b></h3></summary>
   <br/>
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
@@ -97,7 +78,7 @@ Kubernates,  github actions,  arduino
 
 
 
-</details>
+
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
