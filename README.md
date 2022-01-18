@@ -4,9 +4,12 @@
 nilofe/nilofe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ ### :space_invader: &nbsp;About Me 
+  
+  <img align="right" alt="" src="https://github.com/nilofe/nilofe/blob/main/def.jpg?raw=true" width="1200" height="20" />
 
 
-### :space_invader: &nbsp;About Me
+
   
   - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> hey there I am nilo
 
