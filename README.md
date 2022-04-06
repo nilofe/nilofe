@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 </a> -->
 <a href="https://www.linkedin.com/in/felipepyg"><img alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a> 
  <a href="https://twitter.com/_flipe_"><img alt="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
- <a href="https://facebook.com/felipepni"><img alt="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+
 
   
 <!-- cv 
