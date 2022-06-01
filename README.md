@@ -16,10 +16,6 @@ You can click the Preview link to take a look at your changes.
   
   - 💞️ I’m looking to collaborate on open source project
   
-  - 📫 I like to learn pentesting
-
-
-  - :seedling:&nbsp;Love for science and innovation.
 
   - :heartbeat:&nbsp;Passionate with problem solving and daily routines automation.
 
