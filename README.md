@@ -4,81 +4,25 @@
 nilofe/nilofe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- ### :space_invader: &nbsp;About Me 
-  
-  <img align="right" alt="" src="https://github.com/nilofe/nilofe/blob/main/def.jpg?raw=true" width="1200" height="20" />
+ ### :space_invader: &nbsp;About Me  
+-  hey there I am nilo 
 
+<!--💞️ I’m looking to collaborate on open source project -->
 
+:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.
 
-  
-  - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px"> hey there I am nilo
-
-  
-  - 💞️ I’m looking to collaborate on open source project
-  
-
-  - :heartbeat:&nbsp;Passionate with problem solving and daily routines automation.
-
-
-
-<p align="center">
-<!--  <img align="left" alt="nilofe | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-  <a href="https://www.linkedin.com/en/felipepyg/">
-  <img align="left" alt="LinkedIN de nilofe" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-<a href="https://www.linkedin.com/in/felipepyg"><img alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a> 
- <a href="https://twitter.com/_flipe_"><img alt="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-
-
-  
-<!-- cv 
-  <a href="http://lattes.cnpq.br/5511556848445955"><img src="" />
-  -->
-  </a>
-</p>
-
-<hr/>
-
-
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-  <br/>
-
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat&logo=mysqldb&logoColor=white)
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/BASH-007ACC.svg?&style=flat&logo=bash)&nbsp;
-![Microservicios](https://img.shields.io/badge/MICROSERVICIOS-888888.svg?&style=flat&logoColor=white)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/TERRAFORM-%23121011.svg?&style=flat&logo=terraform&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
-![Nmap](https://img.shields.io/badge/NMAP-%23121011.svg?&style=flat&logo=nmap&logoColor=white)&nbsp;
-
-
-
-
- <summary><h3><b>:brain: &nbsp;Other knowledge, always learning</b></h3></summary>
-  <br/>
-
-![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
-![Kafka](https://img.shields.io/badge/APACHE%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;\
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
-![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
-![PENTTESTING](https://img.shields.io/badge/PenTesting-CC6699.svg?&style=flat&logo=pentesting&logoColor=white)&nbsp;
-![GO](https://img.shields.io/badge/GO-31A8FF.svg?&style=flat&logo=go&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-%23121011.svg?&style=flat&logo=jenkins&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-
-
-
-
-
+:computer: &nbsp;Main tech knowledge
+ 
+<a href="https://cloud.google.com/"><img alt="GCP" height="130" width="130" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></a>
+<a href="https://aws.amazon.com/es/"><img alt="AWS" height="110" width="110" src="https://acortar.link/F8dpuO"></a>
+<a href="https://www.docker.com/"><img alt="DOCKER" height="110" width="110" src="https://img.icons8.com/color/344/docker.png"></a>
+<a href="https://www.terraform.io/"><img alt="TERRAFORM" height="90" width="90" src="https://img.icons8.com/color/344/terraform.png"></a>
+<a href="https://kubernetes.io/"><img alt="KUBERNETES" height="90" width="90" src="https://img.icons8.com/color/344/kubernetes.png"></a>
+<a href="https://ubuntu.com/"><img alt="LINUX" height="90" width="90" src="https://img.icons8.com/color/344/linux--v1.png"></a>
+<a href="https://acortar.link/ioo4aB"><img alt="CI/CD" height="80" width="170" src="https://miro.medium.com/max/1400/1*6byqf8KOD0yJ21jwNOZDmw.png"></a>
+ 
+:brain: &nbsp;Always learning
+ 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
