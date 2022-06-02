@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.terraform.io/"><img alt="TERRAFORM" height="50" width="50" src="https://img.icons8.com/color/344/terraform.png"></a>
 <a href="https://kubernetes.io/"><img alt="KUBERNETES" height="50" width="50" src="https://img.icons8.com/color/344/kubernetes.png"></a>
 <a href="https://ubuntu.com/"><img alt="LINUX" height="50" width="50" src="https://img.icons8.com/color/344/linux--v1.png"></a>
-<a href="https://acortar.link/ioo4aB"><img alt="CI/CD" height="50" width="85" src="https://miro.medium.com/max/1400/1*6byqf8KOD0yJ21jwNOZDmw.png"></a>
  
 :brain: &nbsp;Always learning
  
