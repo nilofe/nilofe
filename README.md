@@ -5,7 +5,7 @@ nilofe/nilofe is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
  ### :space_invader: &nbsp;About Me  
--  hey there I am nilo 
+-  hey there I am Nilo 
 
 <!--💞️ I’m looking to collaborate on open source project -->
 
