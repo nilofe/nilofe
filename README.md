@@ -5,7 +5,7 @@ nilofe/nilofe is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
  ### :space_invader: &nbsp;About Me  
--  hey there I am Nilo 
+👋 hey there I am Nilo 
 
 <!--💞️ I’m looking to collaborate on open source project -->
 
@@ -13,13 +13,13 @@ You can click the Preview link to take a look at your changes.
 
 :computer: &nbsp;Main tech knowledge
  
-<a href="https://cloud.google.com/"><img alt="GCP" height="130" width="130" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></a>
-<a href="https://aws.amazon.com/es/"><img alt="AWS" height="110" width="110" src="https://acortar.link/F8dpuO"></a>
-<a href="https://www.docker.com/"><img alt="DOCKER" height="110" width="110" src="https://img.icons8.com/color/344/docker.png"></a>
-<a href="https://www.terraform.io/"><img alt="TERRAFORM" height="90" width="90" src="https://img.icons8.com/color/344/terraform.png"></a>
-<a href="https://kubernetes.io/"><img alt="KUBERNETES" height="90" width="90" src="https://img.icons8.com/color/344/kubernetes.png"></a>
-<a href="https://ubuntu.com/"><img alt="LINUX" height="90" width="90" src="https://img.icons8.com/color/344/linux--v1.png"></a>
-<a href="https://acortar.link/ioo4aB"><img alt="CI/CD" height="80" width="170" src="https://miro.medium.com/max/1400/1*6byqf8KOD0yJ21jwNOZDmw.png"></a>
+<a href="https://cloud.google.com/"><img alt="GCP" height="80" width="80" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></a>
+<a href="https://aws.amazon.com/es/"><img alt="AWS" height="70" width="70" src="https://acortar.link/F8dpuO"></a>
+<a href="https://www.docker.com/"><img alt="DOCKER" height="70" width="70" src="https://img.icons8.com/color/344/docker.png"></a>
+<a href="https://www.terraform.io/"><img alt="TERRAFORM" height="50" width="50" src="https://img.icons8.com/color/344/terraform.png"></a>
+<a href="https://kubernetes.io/"><img alt="KUBERNETES" height="50" width="50" src="https://img.icons8.com/color/344/kubernetes.png"></a>
+<a href="https://ubuntu.com/"><img alt="LINUX" height="50" width="50" src="https://img.icons8.com/color/344/linux--v1.png"></a>
+<a href="https://acortar.link/ioo4aB"><img alt="CI/CD" height="50" width="85" src="https://miro.medium.com/max/1400/1*6byqf8KOD0yJ21jwNOZDmw.png"></a>
  
 :brain: &nbsp;Always learning
  
